@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StandardArchitecture</string>
+    <string name="log_in">LOG IN</string>
+    <string name="id">ID: </string>
+    <string name="name">Name: </string>
+    <string name="account">Account: </string>
+    <string name="pass">Password: </string>
+    <string name="btnSave">Save</string>
+    <string name="add_button">Add use into local database</string>
+</resources>
